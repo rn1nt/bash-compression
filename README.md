@@ -1,7 +1,7 @@
 # bash-compression
 
 # 目的
-该bash脚本会自动查找当前目录和子目录下的dailylog文件，能够批量化将个dailylog文件使用不同的压缩算法进行压缩其中包括zip,tar,tar.gz,bz2,lz4.
+该bash脚本会自动查找当前目录和子目录下的dailylog文件，能够批量化将多个dailylog文件使用不同的压缩算法进行压缩其中包括zip,tar,tar.gz,bz2,lz4.
 并创建相应的文件夹结构，将所有一样的压缩文件放在一起。
 
 # 比较不同压缩算法的压缩率
